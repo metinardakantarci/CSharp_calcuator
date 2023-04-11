@@ -1,0 +1,39 @@
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\NTP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\NTP\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Arda\Desktop\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Kodlar\Hesap Makinesi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
