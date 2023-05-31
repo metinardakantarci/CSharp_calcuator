@@ -6,3 +6,5 @@ CSharp kullanarak yapılan hesap makinesi.
 
 
 Calculator made using CSharp.
+
+https://github.com/metinardakantarci/CSharp-calcuator/blob/main/program_s.PNG?raw=true
