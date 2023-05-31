@@ -4,7 +4,6 @@ CSharp kullanarak yapılan hesap makinesi.
 
 # Calculator with CSharp WindowsForms!
 
-
 Calculator made using CSharp.
 
-https://github.com/metinardakantarci/CSharp-calcuator/blob/main/program_s.PNG?raw=true
+![program_s](https://github.com/metinardakantarci/CSharp-calcuator/assets/55920692/07f8e984-c7c5-4276-81c8-8e0c5af81dc3)
